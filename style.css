@@ -391,6 +391,9 @@ body > container {
   border-color: #000000;
   font-weight: bold;
   height:85px;*/
+
+  
+    border-color: #000000 !important;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -496,7 +499,9 @@ body > container {
   color: #CC311D;
   content: "\00bb\00a0";
 }
-
+.menu-top{
+	background-color:#000;
+}
 .breadcrumb{
  /* padding: 0 25px;*/
   color: #4b403e;

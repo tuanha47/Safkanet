@@ -19,16 +19,18 @@
 
 	
 <header id="header" >	
+<div class="menu-top">
 	<div class="container">	
 		<div class="top-bar">
 			<?php //sitewp_header(); ?>
 			<div class="row">
 
 			</div>
-<nav class="navbar navbar-default">
+			
+			
+		<nav class="navbar navbar-default">
     <div class="nopadding">
-    
-                            
+                              
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Toggle navigation</span>
@@ -72,6 +74,13 @@
     </div>
 </nav>
 		
+		
+			
+		</div>
+				
+	</div>	
+</div>
+	<div class="container">
 		<div class="linkpage">
 				<ol class="breadcrumb">
   			   		<li><a href="#">Etusivu</a></li>
@@ -79,10 +88,8 @@
   					<li class="active">Kaikki artikkelit</li>
 				</ol>	
 		</div>	
-				
-				
-			
-		</div>
 	</div>	
+	
+		
 </header>	
 		
