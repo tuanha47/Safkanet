@@ -49,14 +49,14 @@
   						<div class="info">
   						
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -69,14 +69,14 @@
 							</div>  
 
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -89,14 +89,14 @@
 							</div>  							
 
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -108,14 +108,14 @@
 						
 							</div>  
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -127,14 +127,14 @@
 						
 							</div>  
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -146,14 +146,14 @@
 						
 							</div>  
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -165,14 +165,14 @@
 						
 							</div>  
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -184,14 +184,14 @@
 						
 							</div>  
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
@@ -203,14 +203,14 @@
 						
 							</div>  
 							<div class="col-md-12 contain-info nopadding" style="width:100%"> 
-								<div class="col-md-6 pro-img nopadding">
+								<div class="col-md-5 pro-img nopadding">
 							
 									<a href="#">	
 										<img src ="<?php echo get_template_directory_uri() . '/Icon_web/lemon.png' ?>"  /> 
 									</a>
 								</div>
 					
-								<div class="col-md-6 pro-info">
+								<div class="col-md-7 pro-info">
 
 									<span>Reseptit, Ruoka - Fredu Sirviö </span>
 									<h4> Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>

@@ -582,7 +582,8 @@ body > container {
 .pro-img  img{
 	width:100%;
 	/*min-height:220px;*/
-	padding-top:5px
+	padding-top:5px;
+	min-height: 170px;
 }
 
 .info {
@@ -605,7 +606,7 @@ body > container {
 .pro-info p{
 	font-size: 12.04pt;
 	color:#4b403e;
-	
+	padding-top: 0px;
 }
 
 .title-product{
