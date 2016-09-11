@@ -51,13 +51,13 @@ if(!function_exists('theme_setup')){
 		
 		/* them menu */
 		
-		/*
+		
 		
 		register_nav_menu('primary-menu',__('Primary Menu','Safkanet'));
 		
-		*/
 		
-	if ( ! function_exists( 'cwd_wp_bootstrapwp_theme_setup' ) ):
+		
+/*if ( ! function_exists( 'cwd_wp_bootstrapwp_theme_setup' ) ):
 
   		function cwd_wp_bootstrapwp_theme_setup() {
 
@@ -71,13 +71,13 @@ if(!function_exists('theme_setup')){
 
   	}
 
-	endif;
+	endif;*/
 
-add_action( 'after_setup_theme', 'cwd_wp_bootstrapwp_theme_setup' );
+//add_action( 'after_setup_theme', 'cwd_wp_bootstrapwp_theme_setup' );
 			
 		/* Tao sidebar */
 		
-		$sidebar = array(
+	/*	$sidebar = array(
 			'name' => __('Main Sidebar','Safkanet'),
 			'id' => 'main-sidebar',
 			'description' => __('Default sidebar'),
@@ -86,13 +86,15 @@ add_action( 'after_setup_theme', 'cwd_wp_bootstrapwp_theme_setup' );
 			'after_title' => '</h3>'
 		);
 		
-		register_sidebar($sidebar);
+		register_sidebar($sidebar);*/
+		
 	}
 	add_action('init','theme_setup');
 }
 
 
-require_once 'nav.php';
+
+//require_once 'nav.php';
 
 
 /*
@@ -294,6 +296,16 @@ if(!function_exists('sitewp_entry_meta')){
     wp_enqueue_script('bootstrap');
     
  
+     wp_register_script('bootstrap', get_template_directory_uri() . '/bootstrap/js/npm.js', array(), false, true);
+    wp_enqueue_script('bootstrap');
+ 
+     wp_register_script('main-js', 'http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js', array(), false, true);
+    wp_enqueue_script('main-js');
+    
+    
+    wp_register_script('main-js',  get_template_directory_uri() . 'jswp.js', array(), false, true);
+    wp_enqueue_script('main-js'); 
+ 
  	wp_register_style('main-style', get_template_directory_uri() . "/style.css",'all');
  	wp_enqueue_style('main-style');
  	
@@ -301,7 +313,7 @@ if(!function_exists('sitewp_entry_meta')){
  }
  add_action('wp_enqueue_scripts','sitewp_style');
  
- 
+
  
  
  
