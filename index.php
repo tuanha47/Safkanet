@@ -38,7 +38,11 @@
   					</div>
   					<div class="summary">
   						<p>Reseptit, Ruoka - Fredu Sirviö<p>
-  						<h4>Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade </h4>
+  						<h4>
+  						
+  							Kesäpäivän viilentäjä – Sitruunalimonadi eli lemonade 
+  						
+  						</h4>
   						
   						<div class="subsum">
   							Kotitekoinen sitruunalimonadi on loistava vaihtoehto esimerkiksi kesäjuhlien tarjoiluun. Klassinen lemonade Kotitekoinen sitruunalimonadi on loistava vaihtoehto esimerkiksi kesäjuhlien tarjoiluun. Klassinen lemonadeKotitekoinen sitruunalimonadi on loistava vaihtoehto esimerkiksi kesäjuhlien tarjoiluun. Klassinen lemonade
@@ -258,7 +262,24 @@
 				</div>				
 				
 	  			<div class="col-md-12 title-product" style="width:100%"> 
-							
+	  			
+	  			
+<!--Tạo control page sản phẩm-->
+<div class="row dSP">
+  <form class="form-inline fPageSP">
+    <div class="form-group">
+      <label>Sivu: </label>
+      <input type="text" value="1">
+      <label> /15</label>
+    <button type="submit" class="btn btn-default btn-xs">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> 
+    </button>
+    <button type="submit" class="btn btn-default btn-xs">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    </button>
+    </div>
+  </form>
+</div>							
 					<h4> Ostetuimmat tuotteet - <span> Näytä kaikki </span>	</h4>
 								
 				</div>				

@@ -288,10 +288,18 @@ if(!function_exists('sitewp_entry_meta')){
  /* nhung file style.css */
  
  function sitewp_style(){
- 
+ //day là lệnh tớ ép bootrap, cau xem đủ chưa
     wp_register_style('bootstrap-style', get_template_directory_uri() . '/bootstrap/css/bootstrap.min.css');
     wp_enqueue_style('bootstrap-style');
- 
+
+    wp_register_style('bootstrap-style', get_template_directory_uri() . '/bootstrap/css/bootstrap-theme.min.css');
+    wp_enqueue_style('bootstrap-style');
+    
+
+    wp_register_style('bootstrap-style', get_template_directory_uri() . '/bootstrap/css/bootstrap-theme.css');
+    wp_enqueue_style('bootstrap-style');
+    
+     
     wp_register_script('bootstrap', get_template_directory_uri() . '/bootstrap/js/bootstrap.min.js', array(), false, true);
     wp_enqueue_script('bootstrap');
     

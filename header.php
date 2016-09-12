@@ -19,6 +19,44 @@
 
 	
 <header id="header" >	
+<div class="logo-top">
+	<div class="container">	
+	<div class="row">
+		<div class="col-md-3 nopadding" id="logo">
+		
+			<a href=#><img src ="<?php echo get_template_directory_uri() . '/Icon_web/logo_3.png' ?>"  /></a>
+			
+
+			
+		</div>
+		
+		<div class="col-md-3 nopadding" id="logo-title">
+			<p>
+				Todennäköisesti aina 
+				vähän parempi
+			</p>		
+		</div>
+	
+		<div class="col-lg-6 searchMain">
+<form method="GET" action="https://almsaeedstudio.com/blog/search" accept-charset="UTF-8">
+   <div class="input-group">
+        <div class="input-group-btn"> 
+        	
+          <input class="icoSearch" type="button" 
+          style="background-image: url('<?php echo get_template_directory_uri() . '/Icon_web/search.png' ?>'); " >
+          
+        </div> 
+        <input class="form-control" id="search-top" aria-label="Text input with multiple buttons" placeholder="Etsi Tuotetta...">
+        <input type="submit" id="search-submit-top" value="My Account">	
+    </div> 
+   </form> 
+</div>
+    		
+	</div>
+			
+	</div>
+</div>	
+
 <div class="menu-top">
 	<div class="container">	
 		<div class="top-bar">
